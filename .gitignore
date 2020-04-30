@@ -3,3 +3,4 @@
 /ebin/gen_icmp.app
 /deps/*
 /.eunit/
+_build
